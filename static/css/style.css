@@ -20,7 +20,7 @@
   border: #fbab40;
   height: 100vh;
   background-color: #242628;
-  background-image: url(./static/cloudflare/world.svg);
+  background-image: url(/static/cloudflare/world.svg);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: 70px;
